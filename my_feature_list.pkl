@@ -1,0 +1,10 @@
+(S'poi'
+p0
+S'loan_advances'
+p1
+S'bonus'
+p2
+S'total_payments'
+p3
+tp4
+.
